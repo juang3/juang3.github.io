@@ -8,3 +8,6 @@ https://pages.github.com/
 
 # Para recortar imagenes
 https://www.iloveimg.com/es/recortar-imagen
+
+# Acceder al código
+https://github.com/juang3/juang3.github.io
