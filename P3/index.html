@@ -38,34 +38,51 @@
 
     <div class="container mb-2">
         <div class="row justify-content-md-around">
-            <div class="col-xs-2"><img src="Img/ugricon.gif" alt="Icono UGR"></div>
-            <div class="col-xs-10"><img src="Img/logo_etsiit.png" alt="Mountain View" width="100%" height="137"></div>
+            <div class="col-xs-2"><img src="Img/logo_ugr_0.png" alt="Icono UGR" height="100%" ></div>
+            <div class="col-xs-10">
+               <div id="Carrusel_facultades" class="carousel slide" data-ride="carousel">
+                 <!-- Indicators -->
+                 <ol class="carousel-indicators">
+                   <li data-slide-to="" class="active"></li>
+                   <li data-slide-to=""></li>
+                   <li data-slide-to=""></li>
+                 </ol>
+
+               <!-- Imagenes de las facultades -->
+               <div class="carousel-inner">
+                  <!-- Informática -->
+                  <div class="item active">
+                     <img src="Img/logo_etsiit.png" alt="ETSIIT" style="height:100%;">
+                  </div>
+                  <!-- Ciencias -->
+                  <div class="item">
+                     <img src="Img/logo_ciencias.png" alt="CIENCIAS" style="height:100%;">
+                  </div>
+                  <!-- Trabajo Social -->
+                  <div class="item">
+                     <img src="Img/logo_ciencias.png" alt="CIENCIAS" style="height:100%;">
+                  </div>
+
+              </div>
+            </div>
         </div>
     </div>
-    <div class="container mb-2">
-      <ul class="nav nav-pills nav-fill bg-dark">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Home</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Eventos</a>
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Deportes</a>
-            <a class="dropdown-item" href="#">Música</a>
-            <a class="dropdown-item" href="#">Charlas</a>
-            <a class="dropdown-item" href="#">Viajes</a>
-            <a class="dropdown-item" href="#">Cursos</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Destacados</a>
+    <div class="container">
+        <div class="navbar">
+            <a href="#home">Home</a>
+            <a href="#news">News</a>
+            <div class="dropdown">
+              <button class="dropbtn" onclick="myFunction()">Dropdown
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content" id="myDropdown">
+                <a href="#">Deportes</a>
+                <a href="#">Viajes</a>
+                <a href="#">Charlas</a>
+                <a href="#">Música</a>
+              </div>
+            </div>
           </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Disabled</a>
-        </li>
-      </ul>
     </div>
     <div class="container">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-md-end">
@@ -90,15 +107,15 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner">
                 <div class="item active">
-                  <img src="Img/ny.jpg" alt="Los Angeles" style="width:100%;">
+                  <img src="Img/IA.jpg" alt="Inteligencia Artificial" style="width:100%;">
                 </div>
 
                 <div class="item">
-                  <img src="Img/ny.jpg" alt="Chicago" style="width:100%;">
+                  <img src="Img/Inyuencia_marketing.jpg" alt="Infuencia del marketing" style="width:100%;">
                 </div>
 
                 <div class="item">
-                  <img src="Img/ny.jpg" alt="New york" style="width:100%;">
+                  <img src="Img/violencia_genero.jpg" alt="Vilencia de genero" style="width:100%;">
                 </div>
               </div>
 
@@ -125,13 +142,26 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>Charla divulgativa</td>
+                  <td>Charla: La mágia del ROM Haking
+                     <br> Fecha: 4 de mayo
+                     <br> Lugar: ETSIIT
+                     <br> De 17:30 a 19:30, más informacion <azul>Aqui</azul>
+                  </td>
                 </tr>
                 <tr>
-                  <td>Taller de robotica</td>
+                  <td>Curso: Los derechos al honor, intimidad y propia imagen en las redes sociales.
+                     <br> Fecha: 17 y 18 de mayo
+                     <br> Lugar: Fundación de Estudios y Prácticas Juridicas de Granada
+                     <br> De 16:30 a 20:30, más informacion <azul>Aqui</azul>
+                  </td>
                 </tr>
                 <tr>
-                  <td>XVII certamen musical</td>
+                  <td>III GYMKHANA de la Universidad de Granada
+                     <br> 8 de mayo (plazas limitadas)
+                     <br> Inscripción gratuita el 7 de mayo
+                     <br> <rojo> antes de las 14:00 </rojo>
+                     más informacion <azul>Aqui</azul>
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -146,13 +176,22 @@
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Charla sobre nutricion</td>
+                      <td>Taller:      La seguridad en la red
+                        <br> Labiratorio 3.3 de ETSIIT, <azul>mapa</azul>
+                        <br> De 16:30 a 18:30, más información <azul>Aquí</azul>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Taller de informatica</td>
+                      <td>Debate:      Influencia del marketing en las ventas
+                        <br> Salón de Actos de Ciencias Económicas y Empresariales <azul>mapa</azul>
+                        <br> De 10:00 a 13:00, más información <azul>Aquí</azul>
+                      </td>
                     </tr>
                     <tr>
-                      <td>Partido solidario</td>
+                      <td>Conferencia: ¿Sólo hay Violencia de genero?
+                        <br> Salón de Actos de Trabajo Social <azul>mapa</azul>
+                        <br> De 17:00 a 19:00, más información <azul>Aquí</azul>
+                      </td>
                     </tr>
                   </tbody>
                 </table>
@@ -170,4 +209,8 @@
     </footer>
     </div>
   </body>
+  <style media="screen">
+      azul{color:#0000ff}
+      rojo{color:#ff0000}
+  </style>
 </html>
