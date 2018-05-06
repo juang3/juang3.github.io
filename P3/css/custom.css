@@ -1,61 +1,29 @@
-.navbar {
-    overflow: hidden;
-    background-color: rgb(39, 44, 51);
-    font-family: Arial, Helvetica, sans-serif;
+.nav-link{
+    color:white;
 }
 
-.navbar a {
-    float: left;
-    font-size: 16px;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+.activo{
+    background-color:rgb(233, 238, 243);
+    color: rgb(45, 45, 54);
 }
 
-.dropdown {
-    float: left;
-    overflow: hidden;
+ul > nav > ul > li > a:hover{
+    background-color:rgb(18, 17, 26);
 }
 
-.dropdown .dropbtn {
-    cursor: pointer;
-    font-size: 16px;    
-    border: none;
-    outline: none;
-    color: white;
-    padding: 14px 16px;
-    background-color: inherit;
-    font-family: inherit;
-    margin: 0;
+.doc{
+   background-color: #fff;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
-    background-color: rgb(49, 57, 77);
+.deporte{
+   background-color: #fff;
 }
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 1;
+.musica{
+   background-color: #fff;
 }
-
-.dropdown-content a {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
+.cursos{
+   background-color: #fff;
 }
-
-.dropdown-content a:hover {
-    background-color: #ddd;
-}
-
-.show {
-    display: block;
+.viajes{
+    background-color: #fff;
 }
