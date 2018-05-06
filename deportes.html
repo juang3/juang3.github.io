@@ -16,15 +16,15 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="deporte">
+  <body>
 
 
-     <div class="container mb-2">
+    <div class="container mb-2">
         <div class="row justify-content-md-around">
-            <div class="col-xs-2"><img src="Img/logo_ugr.png" alt="Icono UGR" width="90%"></div>
+            <div class="col-xs-2"><img src="Img/ugr.jpg"  class="img-responsive" alt="Icono UGR"></div>
             <div class="col-xs-10">
-               <img src="Img/secciones/deportes.png" alt="Deportes UGR" width="100%">
-            </div>
+              <img src="Img/deportes.png" alt="Deportes UGR" width="100%">
+            </div><!--col xs 10-->
         </div>
     </div>
 
@@ -42,8 +42,8 @@
             <a class="dropdown-item" href="viajes.html">Viajes</a>
             <a class="dropdown-item" href="cursos.html">Cursos</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Destacados</a>
-          </div>
+            <a class="dropdown-item " href="evento_concreto.html">Evento concreto (demo)</a>
+            </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="tienda.html">Tienda</a>
@@ -55,16 +55,16 @@
     </div>
 
     <div class="container">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-md-end">
-            <form class="form-inline">
-                <input class="form-control" type="search" placeholder="Todos los eventos..." aria-label="Search">
-                <button type="button" class="btn btn-success">
-                    <span class="glyphicon glyphicon-search"></span> Buscar
-                  </button>
-                <button class="btn btn-success" type="button">Avanzada...</button>
-            </form>
-            </nav>
-    </div>
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark justify-content-md-end">
+      <form class="form-inline">
+          <input class="form-control" type="search" placeholder="Todos los eventos..." aria-label="Search">
+          <a href="busqueda.html"><button type="button" class="btn btn-success">
+              <span class="glyphicon glyphicon-search"></span> Buscar
+            </button></a>
+          <button class="btn btn-success" type="button">Avanzada...</button>
+      </form>
+      </nav>
+</div>
 
     <div class="container">
             <h2>Eventos deportivos Destacados</h2>
@@ -121,18 +121,18 @@
             <table class="table table-striped">
               <thead>
                 <tr>
-                  <th>Próximamente</th>
+                  <th><h3>Próximamente</h3></th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
-                  <td>Ruta Senderismo (28/5/2018)</td>
+                  <td><a href="#">Ruta Senderismo (28/5/2018)</a></td>
                 </tr>
                 <tr>
-                  <td>Ruta ciclismo (1/6/2018)</td>
+                  <td><a href="#">Ruta ciclismo (1/6/2018)</a></td>
                 </tr>
                 <tr>
-                  <td>Torneo de ping-pong (5/6/2018)</td>
+                  <td><a href="#">Torneo de ping-pong (5/6/2018)</a></td>
                 </tr>
               </tbody>
             </table>
@@ -142,18 +142,28 @@
                 <table class="table table-striped">
                   <thead>
                     <tr>
-                      <th>Hoy</th>
+                      <th><h3>Hoy</h3></th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td>Marathon solidaria (Salida de Facultad de Medicina, 12:00)</td>
+                       <td>
+                     <h4>Torneos del día de la escuela</h4>
+                     <img src="Img/calendar_time.png"> &nbsp 10/05/2018</br></br>
+                     <img src="Img/place.png"> &nbsp ETSIIT </br></br>
+                     <a href="#"><p class="more">Más</p><a/>
+                     </td>
                     </tr>
                     <tr>
-                      <td>Partido de badminton (Patio de la ETSIIT, 17:30)</td>
+                       <td>
+                     <h4>Torneos de fútbol ETSIIT 2018</h4>
+                     <img src="Img/calendar_time.png"> &nbsp 10/05/2018</br></br>
+                     <img src="Img/place.png"> &nbsp Pistas deportivas de la Chana, 09:00-12:30 </br></br>
+                     <a href="evento_concreto.html"><p class="more">Más</p><a/>
+                     </td>
                     </tr>
                     <tr>
-                      <td>Partido de fútbol (Estadio de la Juventud,19:00)</td>
+                      <td><a href="#">Partido de fútbol (Estadio de la Juventud,19:00)</a></td>
                     </tr>
                   </tbody>
                 </table>

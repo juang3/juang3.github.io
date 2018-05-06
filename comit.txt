@@ -1,0 +1,137 @@
+commit aff1275be7aad46f2b0c6c5079a2388ff0217981
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Sun May 6 14:42:24 2018 +0200
+
+    Reubicación del contenido
+
+commit 620aa562de7f783029fdcd373c599d87a0cb237d
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Sun May 6 14:34:57 2018 +0200
+
+    Sustituidas imagenes de seccion y modificada cada página relacionada
+
+commit 0b9a99194cfb52c109b8c6d150b673dfc3ff33ec
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 14:03:36 2018 +0200
+
+    Añadida paleta de colores
+
+commit 045cea36046ad1e6294bf85f048ef7467b1aaf2b
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 13:31:48 2018 +0200
+
+    Imagenes añadidas: Futbol, rugby, tenis, debates
+
+commit 8f8642596c9907b8271f0d2386795d2eb29c549a
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 13:30:48 2018 +0200
+
+    Más enlaces de utilidad
+
+commit 44b15561b973d2e73c9ac430647dc9768e3da28b
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 10:33:22 2018 +0200
+
+    Añadido acceso al código
+
+commit 6048f88a3095ed24e3d9ba1da4293a8fa60aec03
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 10:27:35 2018 +0200
+
+    Cambiado el nombre de la imagen en el carrusel de facultades
+
+commit 6c8bded4f80e70063d78b1f5e52d182ca03f4dbc
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 10:26:46 2018 +0200
+
+    Editada la imagen de la facutad de Trabajo Social
+
+commit ca1a5bbd85af6a8fe6e93f84eba807b1f284ae2e
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 10:26:14 2018 +0200
+
+    Añadida otra ubicación de la practica
+
+commit e22a8cac7c075886b9e3c25cbdde21c6c752169f
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 09:26:20 2018 +0200
+
+    Borando archivos duplicados
+
+commit e21400419c8087ed55045a240053aa04ea811eab
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 09:24:51 2018 +0200
+
+    Añadiendo enlace para visualizar la página
+
+commit 9aa6b7d38533923bcac6ebecb59b9352dc242726
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 09:18:16 2018 +0200
+
+    Renombramiento de la imagen para conservar ambas
+
+commit ba3ee16dd607ee6ba4fbce185e97670996d86aec
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 09:17:25 2018 +0200
+
+    Modificado el nombre del carrusel de las facultades
+
+commit 0c08e6f7e8a646798a253b0b08b85539ee750521
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Fri May 4 09:16:33 2018 +0200
+
+    Añado enlaces de interés --> Recortar imagenes Oline
+
+commit 3bf93e4a94e807aaf31d798c07c61a86473b143a
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 13:55:23 2018 +0200
+
+    Nueva visualización de la web
+
+commit e28f9e294448ae308d720412511ce67658760bba
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 13:35:50 2018 +0200
+
+    Añadidas imagenes relacionadas con los eventos de hoy
+
+commit e19bd6b54034aae926fc09147abaac6f97ef133f
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 13:35:02 2018 +0200
+
+    Ampliada la información de los eventos
+
+commit 0f436057300ecbbea51b632d9fccb9ed7cc81733
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 11:40:30 2018 +0200
+
+    Cambio en el logo e imagen de prueba de facultades
+
+commit 455c5021faf13cf8546353fbb90bd218ecd753a8
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 11:39:36 2018 +0200
+
+    Añadido read
+
+commit 98ce2ddf7bf5b6291e4f828a0318476151dc2bc9
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 11:24:39 2018 +0200
+
+    Modificando imagenes
+
+commit d4e6aa8528d618aaf804582325147e75176cf67e
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 11:16:29 2018 +0200
+
+    Añadida practica 3 de DIU
+
+commit d42a473adad4c1518cad20e4859f925cd0fb4201
+Author: Paal <losei.him.paal@gmail.com>
+Date:   Thu May 3 11:11:40 2018 +0200
+
+    Probando GitHubPages
+
+commit f26a52dfa291b145045f658e1d14428364253ad8
+Author: juang3 <juang3@correo.ugr.es>
+Date:   Thu May 3 11:04:53 2018 +0200
+
+    Initial commit

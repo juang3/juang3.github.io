@@ -12,18 +12,29 @@ ul > nav > ul > li > a:hover{
 }
 
 .doc{
-   background-color: #fff;
+    background-color: #23B0AB;
 }
 
 .deporte{
-   background-color: #fff;
+    background-color: #25BA58;
 }
 .musica{
-   background-color: #fff;
+    background-color: #52A328;
 }
 .cursos{
-   background-color: #fff;
+    background-color: #A39F2E;
 }
 .viajes{
-    background-color: #fff;
+    background-color: #A38220;
+}
+.destacado{
+    background-color: rgb(185, 107, 107);
+}
+.icon{
+    width:100%;
+    height: auto;
+}
+.more{
+   color: #23b0ab;
+   text-align: right;
 }
